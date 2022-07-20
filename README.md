@@ -7,13 +7,6 @@
 학번 : 20185118   
 전공 : 빅데이터 전공   
 -
-* 좋아하는 음식
-
-1.김치찌개      
-<img src = kimchi.jpg height = 150 width = 150>   
-2.순대국      
-<img src = sondae.jpg height = 150 width = 150>   
-
 
 * 나의 MBTI 성향
 
