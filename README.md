@@ -8,10 +8,6 @@
 전공 : 빅데이터 전공   
 -
 
-* 나의 MBTI 성향
-
-<h3> INFJ <h3>      
-<img src = infj.jpg height = 240 width = 240>   
 
 * 2021년 1학기 시간표 현황 
   
